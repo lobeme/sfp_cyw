@@ -11,4 +11,14 @@ age = {'Hans': 24, 'Prag': 23, 'Bunyod': 18}
 
 # Insert your code
 
-wholedictionary = {'Hans': 24, 'Prag': 23, }
+wholedictionary = {'Hans': 24, 'Prag': 23, 'Bunyod': 18}
+print(wholedictionary)
+
+age of 'Hans' = {24}
+print(age of 'Hans')
+
+updated age of 'Prag' = {30}
+print(updated age of 'Prag')
+
+de1 age{'Bunyod'}
+
