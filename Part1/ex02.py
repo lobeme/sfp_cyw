@@ -1,0 +1,2 @@
+text = "cyw"
+print(text)
